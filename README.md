@@ -40,10 +40,10 @@ git clone https://github.com/quicksilver812/weathermon.git
 
 2. Navigate to the project directory:
 ```sh
-cd weather-app
+cd weathermon
 ```
 
-3. Replace the id variable in the JavaScript code with your OpenWeatherMap API key.
+3. Replace the id variable in the `app.js` code with your OpenWeatherMap API key.
 ```sh
 let id = 'YOUR_API_KEY_HERE';
 ```
@@ -53,4 +53,4 @@ let id = 'YOUR_API_KEY_HERE';
 2. Enter the name of the city you want to search for in the input field and press the search button
 
 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
