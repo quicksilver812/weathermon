@@ -53,4 +53,4 @@ let id = 'YOUR_API_KEY_HERE';
 2. Enter the name of the city you want to search for in the input field and press the search button
 
 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
