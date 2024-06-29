@@ -4,7 +4,7 @@ A simple and elegant weather application that allows users to search for weather
 
 ## Screenshot
 
-![Weather App Screenshot](demo.png)
+![Weather App Screenshot](demo2.png)
 
 ## Features
 
