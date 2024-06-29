@@ -15,7 +15,7 @@ form.addEventListener('submit', (event) =>{
     }
 })
 
-let id = '2053d462533afa063da4dfbcfea21e31'
+let id = 'YOUR_API_KEY_HERE'
 let url = 'https://api.openweathermap.org/data/2.5/weather?units=metric&appid='+id;
 
 const searchWeather = () =>{
