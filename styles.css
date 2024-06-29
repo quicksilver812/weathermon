@@ -133,3 +133,9 @@ main.error{
         transform: translate(0, 0);
     }
 }
+
+body .logo{
+    position: absolute;
+    top: 0px;
+    height: 180px;
+}
