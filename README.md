@@ -8,7 +8,7 @@ A simple and elegant weather application that allows users to search for weather
 
 ## Features
 
-- Search for weather information by city name
+- Search for weather information by city names
 - Display current temperature, weather description, and city name
 - Show country flag of the searched city
 - Provide additional details like cloudiness, humidity, and pressure
